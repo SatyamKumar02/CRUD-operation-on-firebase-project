@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobileAppDevProject</string>
+    <string name="logout">Logout</string>
+
+    <array name="genres">
+        <item>ROCK</item>
+        <item>POP</item>
+        <item>SUFI</item>
+        <item>FOLK</item>
+    </array>
+</resources>
